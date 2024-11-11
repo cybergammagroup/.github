@@ -6,7 +6,7 @@
 Hello everyone,
 CyberGammaGroup is a development organization founded by GZod01.
 This organization focuses on computer development and mainly in game dev.
-**More Informations on the ~~[website](https://cybergammagroup.gzod01.fr)~~ (WIP)**
+**More Informations on the [website](https://cybergamma.group)**
 
 **Français**
 
@@ -16,4 +16,4 @@ Cette organisation est axée sur le développement informatique et principalemen
 
 
 
-**Plus D'informations sur le ~~[site web](https://cybergammagroup.gzod01.fr)~~ (Construction en cours)**
+**Plus D'informations sur le [site web](https://cybergamma.group)**
