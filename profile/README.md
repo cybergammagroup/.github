@@ -6,7 +6,12 @@
 Hello everyone,
 CyberGammaGroup is a development organization founded by GZod01.
 This organization focuses on computer development and mainly in game dev.
+
+
+
 **More Informations on the [website](https://cybergamma.group)**
+
+Games are published on [itch.io](https://cybergammagroup.itch.io): [cybergammagroup.itch.io](https://cybergammagroup.itch.io).
 
 **Français**
 
@@ -17,3 +22,5 @@ Cette organisation est axée sur le développement informatique et principalemen
 
 
 **Plus D'informations sur le [site web](https://cybergamma.group)**
+
+Les jeux sont publiés sur [itch.io](https://cybergammagroup.itch.io): [cybergammagroup.itch.io](https://cybergammagroup.itch.io).
